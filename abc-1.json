@@ -1,0 +1,12 @@
+{
+  "name": "Token Não Fungível",
+  "description": "",
+  "external_url": "https://en.wikipedia.org/wiki/Building",
+  "image": "https://images.unsplash.com/photo-1554435493-93422e8220c8?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "attributes": [
+      {
+          "trait_type": "teste",
+          "value": "teste"
+      }
+  ]
+}
